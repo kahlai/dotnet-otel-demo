@@ -23,3 +23,17 @@
 /Users/laikahhoe/Projects/dotnet/otel/obj/Debug/net8.0/otel.pdb
 /Users/laikahhoe/Projects/dotnet/otel/obj/Debug/net8.0/otel.genruntimeconfig.cache
 /Users/laikahhoe/Projects/dotnet/otel/obj/Debug/net8.0/ref/otel.dll
+/Users/laikahhoe/Projects/dotnet/otel/obj/Debug/net8.0/otel.csproj.AssemblyReference.cache
+/Users/laikahhoe/Projects/dotnet/otel/bin/Debug/net8.0/OpenTelemetry.dll
+/Users/laikahhoe/Projects/dotnet/otel/bin/Debug/net8.0/OpenTelemetry.Api.dll
+/Users/laikahhoe/Projects/dotnet/otel/bin/Debug/net8.0/OpenTelemetry.Api.ProviderBuilderExtensions.dll
+/Users/laikahhoe/Projects/dotnet/otel/bin/Debug/net8.0/OpenTelemetry.Exporter.Console.dll
+/Users/laikahhoe/Projects/dotnet/otel/bin/Debug/net8.0/OpenTelemetry.Extensions.Hosting.dll
+/Users/laikahhoe/Projects/dotnet/otel/bin/Debug/net8.0/OpenTelemetry.Instrumentation.AspNetCore.dll
+/Users/laikahhoe/Projects/dotnet/otel/obj/Debug/net8.0/otel.csproj.Up2Date
+/Users/laikahhoe/Projects/dotnet/otel/bin/Debug/net8.0/Google.Protobuf.dll
+/Users/laikahhoe/Projects/dotnet/otel/bin/Debug/net8.0/Grpc.Core.Api.dll
+/Users/laikahhoe/Projects/dotnet/otel/bin/Debug/net8.0/Grpc.Net.Client.dll
+/Users/laikahhoe/Projects/dotnet/otel/bin/Debug/net8.0/Grpc.Net.Common.dll
+/Users/laikahhoe/Projects/dotnet/otel/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Binder.dll
+/Users/laikahhoe/Projects/dotnet/otel/bin/Debug/net8.0/OpenTelemetry.Exporter.OpenTelemetryProtocol.dll
